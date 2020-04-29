@@ -1,0 +1,6 @@
+name: SuperOPS
+version: 1.0.0
+main: me.michaelr123.superops.SuperOPS
+api-version: 1.13
+authors: [MichaelR123]
+description: Instant one person sleep plugin, with almost no lag.
